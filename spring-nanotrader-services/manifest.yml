@@ -1,0 +1,7 @@
+applications:
+- name: spring-nanotrader-services
+  memory: 512M
+  host: spring-nanotrader-services
+  domain: cfapps.io
+  services: {
+    }

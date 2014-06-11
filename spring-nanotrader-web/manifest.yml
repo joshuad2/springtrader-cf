@@ -1,0 +1,7 @@
+applications:
+- name: spring-nanotrader-web
+  memory: 512M
+  host: jdavis-spring-nanotrader-web
+  domain: cfapps.io
+  services: {
+    }
